@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.525de6c5.css",
+    "main.js": "/static/js/main.ed4f7842.js",
+    "static/js/787.ae1ea207.chunk.js": "/static/js/787.ae1ea207.chunk.js",
+    "static/media/Product.jpg": "/static/media/Product.59243cf56fc311fa9c5e.jpg",
+    "static/media/LampThree.png": "/static/media/LampThree.0add9067aa496f0e7523.png",
+    "static/media/LampTwo.png": "/static/media/LampTwo.42761ea88e589f2c8909.png",
+    "static/media/LampOne.png": "/static/media/LampOne.34197436cc227c77e010.png",
+    "static/media/Manage.png": "/static/media/Manage.eb59e7a8a29aacb8de1f.png",
+    "index.html": "/index.html",
+    "main.525de6c5.css.map": "/static/css/main.525de6c5.css.map",
+    "main.ed4f7842.js.map": "/static/js/main.ed4f7842.js.map",
+    "787.ae1ea207.chunk.js.map": "/static/js/787.ae1ea207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525de6c5.css",
+    "static/js/main.ed4f7842.js"
+  ]
+}
